@@ -36,7 +36,7 @@ namespace TestApp
         {
             base.OnAppearing();
 
-            GC.Collect();
+            //GC.Collect();
         }
 
         private void Button_Clicked_1(object sender, EventArgs e)

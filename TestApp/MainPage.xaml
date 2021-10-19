@@ -5,7 +5,7 @@
 
     <StackLayout>
         <Label Text="{Binding SomeText}"/>
-        <Button Text="Click me" Clicked="Button_Clicked"/>
+        <Button Text="To test page" Clicked="Button_Clicked"/>
         <Button Text="Change Text" Clicked="Button_Clicked_1"/>
     </StackLayout>
 
